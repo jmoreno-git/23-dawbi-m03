@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2023-09-26T13:44:31.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="7o03-IHTMST5tq5TgCuX" version="21.8.2" type="device">
+  <diagram name="Página-1" id="qL2qtM6UKxLk_WGxt6fQ">
+    <mxGraphModel dx="548" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K9xUt55C8kfDg8WGtbPi-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K9xUt55C8kfDg8WGtbPi-1" target="K9xUt55C8kfDg8WGtbPi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K9xUt55C8kfDg8WGtbPi-1" value="Inici" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K9xUt55C8kfDg8WGtbPi-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K9xUt55C8kfDg8WGtbPi-2" target="K9xUt55C8kfDg8WGtbPi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K9xUt55C8kfDg8WGtbPi-2" value="Llegir de l&#39;usuari el radi del cercle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="70" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K9xUt55C8kfDg8WGtbPi-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K9xUt55C8kfDg8WGtbPi-4" target="K9xUt55C8kfDg8WGtbPi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K9xUt55C8kfDg8WGtbPi-4" value="Calcular l&#39;àrea del cercle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="150" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K9xUt55C8kfDg8WGtbPi-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K9xUt55C8kfDg8WGtbPi-6" target="K9xUt55C8kfDg8WGtbPi-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K9xUt55C8kfDg8WGtbPi-6" value="Mostrar el resultat a l&#39;usuari" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K9xUt55C8kfDg8WGtbPi-8" value="Final" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="320" width="72" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

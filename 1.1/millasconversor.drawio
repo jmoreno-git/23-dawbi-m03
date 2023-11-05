@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-09-20T15:19:12.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="gsB6ROMJlWrh7p4xpucw" version="21.7.5" type="device">
+  <diagram name="Página-1" id="s9CTzgqTgi7x6Bb2Uu3K">
+    <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wMMGKVDYseAGtLvIHLlw-1" value="Inici" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="66" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wMMGKVDYseAGtLvIHLlw-2" value="Fi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="389" width="66" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wMMGKVDYseAGtLvIHLlw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wMMGKVDYseAGtLvIHLlw-3" target="wMMGKVDYseAGtLvIHLlw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wMMGKVDYseAGtLvIHLlw-3" value="Definir factor de conversió: MILLES_A_METRES = 1852" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="80" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wMMGKVDYseAGtLvIHLlw-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wMMGKVDYseAGtLvIHLlw-5" target="wMMGKVDYseAGtLvIHLlw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wMMGKVDYseAGtLvIHLlw-5" value="Preguntar i llegir de l&#39;usuari les milles a convertir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="164" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wMMGKVDYseAGtLvIHLlw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wMMGKVDYseAGtLvIHLlw-7" target="wMMGKVDYseAGtLvIHLlw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wMMGKVDYseAGtLvIHLlw-7" value="Calcular la conversió" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wMMGKVDYseAGtLvIHLlw-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wMMGKVDYseAGtLvIHLlw-9" target="wMMGKVDYseAGtLvIHLlw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wMMGKVDYseAGtLvIHLlw-9" value="Mostrar a l&#39;usuari el resultat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="317" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wMMGKVDYseAGtLvIHLlw-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wMMGKVDYseAGtLvIHLlw-1" target="wMMGKVDYseAGtLvIHLlw-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="125" as="sourcePoint" />
+            <mxPoint x="580" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
